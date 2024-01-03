@@ -6,9 +6,9 @@ resources:
       trigger: none
 
 variables:
-  azureServiceConnection: 'azure-connection'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
-  resourceGroup: 'rg-az400-container-NAME'
+  azureServiceConnection: 'afreenh1411'
+  subscriptionId: '35927afa-54d1-4a43-a678-7907ba8486e4'
+  resourceGroup: 'rg-az400-container-afree'
   location: 'westeurope'
 
 stages:
